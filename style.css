@@ -1,0 +1,29 @@
+html {
+    background-image: url(https://images.pexels.com/photos/132340/pexels-photo-132340.jpeg?auto=compress&cs=tinysrgb&h=350);
+    box-shadow: inset 0 0 0 1000px rgba(252, 247, 247, 0.952);
+    background-blend-mode: screen white;
+    position: absolute;
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: aliceblue;
+    /* background-blend-mode: screen; */
+    /* z-index: 10; */
+}
+
+#Question {
+    margin-top: 0;
+    position: absolute;
+}
+
+.container {
+    position: relative;
+    font-size: 1em;
+    /* text-emphasis: ; */
+    color: rgb(2, 70, 2)67, 69;
+    font-style: Bolder;
+}
